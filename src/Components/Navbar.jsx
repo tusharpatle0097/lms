@@ -54,7 +54,7 @@ const Navbar = () => {
 
                 </div>
             </nav>
-            <hr className='dark:border-gray-500' />
+            <hr className='border-gray-500' />
             <div className="max-h-[6vh] min-h-[40px] flex items-center ml-3 mr-3 md:ml-10 md:mr-10 my-1">
                 <span>
                     <svg
@@ -62,7 +62,7 @@ const Navbar = () => {
                         fill="currentColor"
                         strokeWidth="0"
                         viewBox="0 0 1024 1024"
-                        className="text-purple-700 text-xl cursor-pointer dark:text-purple-300"
+                        className="text-purple-700 text-xl cursor-pointer "
                         height="1em"
                         width="1em"
                         xmlns="http://www.w3.org/2000/svg"
@@ -71,37 +71,37 @@ const Navbar = () => {
                     </svg>
                 </span>
                 <ul className="space-x-7 m-auto text-purple-700 font-semibold hidden md:flex items-center">
-                    <li className="cursor-pointer text-[15px] hover:border-b-2 hover:border-purple-700 active:border-b-4 dark:text-purple-300">
+                    <li className="cursor-pointer text-[15px] hover:border-b-2 hover:border-purple-700 active:border-b-4">
                         <a href="/tutorial/html-home/">HTML</a>
                     </li>
-                    <li className="cursor-pointer text-[15px] hover:border-b-2 hover:border-purple-700 active:border-b-4 dark:text-purple-300">
+                    <li className="cursor-pointer text-[15px] hover:border-b-2 hover:border-purple-700 active:border-b-4">
                         <a href="/tutorial/css-home/">CSS</a>
                     </li>
-                    <li className="cursor-pointer text-[15px] hover:border-b-2 hover:border-purple-700 active:border-b-4 dark:text-purple-300">
+                    <li className="cursor-pointer text-[15px] hover:border-b-2 hover:border-purple-700 active:border-b-4">
                         <a href="/tutorial/js/">JS</a>
                     </li>
-                    <li className="cursor-pointer text-[15px] hover:border-b-2 hover:border-purple-700 active:border-b-4 dark:text-purple-300">
+                    <li className="cursor-pointer text-[15px] hover:border-b-2 hover:border-purple-700 active:border-b-4">
                         <a href="/tutorial/c/">C</a>
                     </li>
-                    <li className="cursor-pointer text-[15px] hover:border-b-2 hover:border-purple-700 active:border-b-4 dark:text-purple-300">
+                    <li className="cursor-pointer text-[15px] hover:border-b-2 hover:border-purple-700 active:border-b-4">
                         <a href="/tutorial/cplusplus/">C++</a>
                     </li>
-                    <li className="cursor-pointer text-[15px] hover:border-b-2 hover:border-purple-700 active:border-b-4 dark:text-purple-300">
+                    <li className="cursor-pointer text-[15px] hover:border-b-2 hover:border-purple-700 active:border-b-4">
                         <a href="/tutorial/java/">JAVA</a>
                     </li>
-                    <li className="cursor-pointer text-[15px] hover:border-b-2 hover:border-purple-700 active:border-b-4 dark:text-purple-300">
+                    <li className="cursor-pointer text-[15px] hover:border-b-2 hover:border-purple-700 active:border-b-4">
                         <a href="/tutorial/python/">PYTHON</a>
                     </li>
-                    <li className="cursor-pointer text-[15px] hover:border-b-2 hover:border-purple-700 active:border-b-4 dark:text-purple-300">
+                    <li className="cursor-pointer text-[15px] hover:border-b-2 hover:border-purple-700 active:border-b-4">
                         <a href="/tutorial/php/">PHP</a>
                     </li>
-                    <li className="cursor-pointer text-[15px] hover:border-b-2 hover:border-purple-700 active:border-b-4 dark:text-purple-300">
+                    <li className="cursor-pointer text-[15px] hover:border-b-2 hover:border-purple-700 active:border-b-4">
                         <a href="/tutorial/react-home/">REACT JS</a>
                     </li>
                 </ul>
                 <input
                     id="search"
-                    className="hidden right-10 md:right-10 absolute w-48 md:w-60 h-8 bg-white rounded border-2 border-purple-500 focus:border-purple-700 focus:ring-2 focus:ring-indigo-200 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out dark:bg-gray-500 dark:text-gray-200"
+                    className="hidden right-10 md:right-10 absolute w-48 md:w-60 h-8 bg-white rounded border-2 border-purple-500 focus:border-purple-700 focus:ring-2 focus:ring-indigo-200 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out  "
                     placeholder="Search..."
                 />
                 <svg
@@ -109,7 +109,7 @@ const Navbar = () => {
                     fill="currentColor"
                     strokeWidth="0"
                     viewBox="0 0 1024 1024"
-                    className="text-purple-700 dark:text-purple-300 cursor-pointer text-2xl absolute right-3 md:right-12"
+                    className="text-purple-700  cursor-pointer text-2xl absolute right-3 md:right-12"
                     height="1em"
                     width="1em"
                     xmlns="http://www.w3.org/2000/svg"
@@ -117,7 +117,7 @@ const Navbar = () => {
                     <path d="M909.6 854.5L649.9 594.8C690.2 542.7 712 479 712 412c0-80.2-31.3-155.4-87.9-212.1-56.6-56.7-132-87.9-212.1-87.9s-155.5 31.3-212.1 87.9C143.2 256.5 112 331.8 112 412c0 80.1 31.3 155.5 87.9 212.1C256.5 680.8 331.8 712 412 712c67 0 130.6-21.8 182.7-62l259.7 259.6a8.2 8.2 0 0 0 11.6 0l43.6-43.5a8.2 8.2 0 0 0 0-11.6zM570.4 570.4C528 612.7 471.8 636 412 636s-116-23.3-158.4-65.6C211.3 528 188 471.8 188 412s23.3-116.1 65.6-158.4C296 211.3 352.2 188 412 188s116.1 23.2 158.4 65.6S636 352.2 636 412s-23.3 116.1-65.6 158.4z"></path>
                 </svg>
             </div>
-            <hr className='dark:border-gray-500' />
+            <hr className='' />
 
         </>
     )

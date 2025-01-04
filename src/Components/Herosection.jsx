@@ -28,7 +28,7 @@ const Herosection = () => {
                             wrapper="span"
                             speed={50}
                             style={{ display: 'inline-block' }}
-                            className='pl-3 text-xl text-purple-700 font-semibold  md:text-2xl dark:text-white'
+                            className='pl-3 text-xl text-purple-700 font-semibold  md:text-2xl '
                             repeat={Infinity}
                         />
                         <br />

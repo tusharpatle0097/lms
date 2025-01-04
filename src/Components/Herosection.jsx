@@ -23,7 +23,7 @@ const Herosection = () => {
                                 1000,
                                 ' React.Js',
                                 1000
-                                
+
                             ]}
                             wrapper="span"
                             speed={50}
@@ -32,7 +32,7 @@ const Herosection = () => {
                             repeat={Infinity}
                         />
                         <br />
-                        <span className='mt-2 text-sm text-gray-500 md:text-base '>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, non. Ex optio nemo eius nam aliquid facere id veritatis officiis, vero qui corporis velit atque unde? Placeat vitae blanditiis mollitia!</span>
+                        <span className='mt-2 text-sm text-gray-500 md:text-base '>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, non. Ex optio nemo eius nam aliquid facere id veritatis officiis, vero qui corporis velit atque unde? Placeat vitae blanditiis mollitia! Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, non. Ex optio nemo eius nam aliquid facere id veritatis officiis, vero qui corporis velit atque unde? Placeat vitae blanditiis mollitia!</span>
                         <div className="flex space-x-4 mt-6">
                             <button className="bg-gradient-to-r from-purple-500 to-blue-500 text-white font-semibold py-3 px-6 rounded-full shadow-lg hover:shadow-xl hover:from-blue-500 hover:to-purple-500 transition-all duration-300">
                                 Get Started

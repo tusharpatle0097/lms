@@ -4,18 +4,18 @@ const RecommendedCourses = () => {
 
     const courses = [
         {
-            image: "https://www.shutterstock.com/image-photo/python-highlevel-programing-language-application-260nw-1402830182.jpg",
-            title: "Python Tutorials - 100 Days of Code",
+            image: "https://4kwallpapers.com/images/wallpapers/python-programming-3840x2160-16102.jpg",
+            title: "Python ",
             description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rhoncus mauris quis faucibus pharetra. Aliquam ac feugiat eros, a semper elit. Pellentesque urna magna, aliquam vitae nisi non, congue vestibulum magna."
         },
         {
-            image: "https://www.datocms-assets.com/48401/1628644950-javascript.png?auto=format&fit=max&w=1200",
-            title: "Ultimate JavaScript Course",
+            image: "https://www.freecodecamp.org/news/content/images/2020/04/jsposter.jpg",
+            title: "JavaScript",
             description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rhoncus mauris quis faucibus pharetra. Aliquam ac feugiat eros, a semper elit. Pellentesque urna magna, aliquam vitae nisi non, congue vestibulum magna."
         },
         {
             image: "https://cdn.prod.website-files.com/661dc153b706dbb6ca6be504/663b222726c7f9b37d3c6d05_react.png",
-            title: "React JS Tutorials For Beginners",
+            title: "React JS",
             description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rhoncus mauris quis faucibus pharetra. Aliquam ac feugiat eros, a semper elit. Pellentesque urna magna, aliquam vitae nisi non, congue vestibulum magna."
         }
     ];

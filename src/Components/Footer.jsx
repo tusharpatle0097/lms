@@ -64,7 +64,7 @@ const Footer = () => {
         {/* Footer Bottom */}
         <div className="mt-10 border-t border-gray-700 pt-6 text-center">
           <p className="text-gray-400">
-            © {new Date().getFullYear()} Learnify. All rights reserved.
+            © {new Date().getFullYear()} LMS. All rights reserved.
           </p>
           <div className="flex justify-center space-x-4 mt-4">
             <a

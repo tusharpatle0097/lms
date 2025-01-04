@@ -47,15 +47,15 @@ const Footer = () => {
             <ul className="mt-4 space-y-2">
               <li className="flex items-center space-x-2">
                 <span className="material-icons">location_on</span>
-                <span>123 Edu Lane, Knowledge City</span>
+                <span>123 Edu Lane, Nagpur City</span>
               </li>
               <li className="flex items-center space-x-2">
                 <span className="material-icons">phone</span>
-                <span>+1 234 567 890</span>
+                <span>+91 234 567 890</span>
               </li>
               <li className="flex items-center space-x-2">
                 <span className="material-icons">email</span>
-                <span>support@learnify.com</span>
+                <span>support@lms.com</span>
               </li>
             </ul>
           </div>

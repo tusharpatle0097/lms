@@ -21,7 +21,7 @@ const RecommendedCourses = () => {
     ];
     return (
         <>
-            <div className='text-3xl font-medium title-font text-gray-900 my-10 text-center'>
+            <div className='text-3xl font-medium title-font text-gray-900 my-10 text-center mt-[70px]'>
                 Recommended Courses
             </div>
 

@@ -47,7 +47,7 @@ const Herosection = () => {
                 <div className="flex justify-center items-center pt-9">
                     <img
                         className="w-[80%]"
-                        src="https://i.pinimg.com/originals/2a/23/73/2a23730fb0133701905f716dd21eead2.jpg"
+                        src="https://contentstatic.timesjobs.com/img/84138958/Master.jpg"
                         alt="Decorative"
                     />
                 </div>

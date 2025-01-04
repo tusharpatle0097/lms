@@ -17,7 +17,7 @@ const Navbar = () => {
                     <span className="font-semibold text-xl tracking-tight text-blue-600">LMS</span>
                 </div>
                 <div className="block lg:hidden">
-                    <button onClick={menuBar} className="flex items-center px-3 py-2 border rounded text-teal-200 border-teal-400 hover:text-white hover:border-white">
+                    <button onClick={menuBar} className="flex items-center px-3 py-2 border rounded text-teal-200 border-teal-400 ">
                         <div>{menuOpen ? <RxCross1 /> : <GiHamburgerMenu />}</div>
                     </button>
                 </div>

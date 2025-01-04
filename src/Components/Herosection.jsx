@@ -15,12 +15,15 @@ const Herosection = () => {
                         <span className=' text-xl font-semibold text-gray-800 md:text-2xl '>Learn</span>
                         <TypeAnimation
                             sequence={[
-                                ' Hamsters',
+                                ' C',
                                 1000,
-                                ' Pigs',
+                                ' C++',
                                 1000,
-                                ' Chinchillas',
+                                ' Java',
+                                1000,
+                                ' React.Js',
                                 1000
+                                
                             ]}
                             wrapper="span"
                             speed={50}
